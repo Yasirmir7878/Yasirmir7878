@@ -1,0 +1,331 @@
+< !DOCTYPE html >
+  <
+  html >
+  <
+  head >
+  <
+  meta charset = "utf-8" / >
+  <
+  meta
+name = "viewport"
+content = "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" /
+  >
+  <
+  title > Welcome to SVIP3Patti < /title> <
+  link href = "https://svip3patti.com" / >
+  <
+  link rel = "icon"
+href = "img/32X32.ico"
+type = "image/x-icon" / >
+  <
+  !--Apple Touch Icon(iOS 主屏图标) -->
+  <
+  link rel = "apple-touch-icon"
+href = "img/180X180.png"
+sizes = "180x180" / >
+  <
+  !--Android Chrome 主屏图标-->
+  <
+  link rel = "icon"
+sizes = "192x192"
+href = "img/192X192.png" / >
+  <
+  link rel = "stylesheet"
+href = "./css/style.css" / >
+  <
+  link rel = "stylesheet"
+href = "./css/animate.min.css" / >
+  <
+  link rel = "stylesheet"
+href = "./css/swiper.min.css" / >
+  <
+  script src = "./js/jquery.js" > < /script> <
+  script src = "https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js" > < /script> <
+  script
+src = "https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment-with-locales.min.js"
+integrity = "sha512-LGXaggshOkD/at6PFNcp2V2unf9LzFq6LE+sChH7ceMTDP0g2kn6Vxwgg7wkPP7AAtX+lmPqPdxB47A0Nz0cMQ=="
+crossorigin = "anonymous"
+referrerpolicy = "no-referrer" >
+  < /script> <
+  script src = "./js/rem.js" > < /script> <
+  script type = "text/javascript"
+src = "js/download.js" > < /script> <
+  script src = "js/data.js" > < /script> <
+  script >
+  const kfUrl = [
+    "https://vm.daneviolda.com/1qxfsyjwhrpzu0m0ocw2hhbq8u",
+  ]; //客服链接地址
+const time = 10000; //10秒更换一次客服链接
+<
+/script> <
+script >
+  var _hmt = _hmt || [];
+(function () {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?a9b8a4fa5b8e45f51da9882027b28335";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})(); <
+/script> <
+/head> <
+body >
+  <
+  div class = "center" >
+  <
+  div class = "top"
+onclick = "DownSoft()" >
+  <
+  img src = "./img/top.png"
+alt = "" / >
+  <
+  /div> <
+  div class = "logo" >
+  <
+  img src = "./img/logo.png"
+alt = "" / >
+  <
+  /div> <
+  div class = "downBtn"
+onclick = "DownSoft()" >
+  <
+  img src = "./img/Down.png"
+alt = "" / >
+  <
+  /div> <
+  div class = "top1" >
+  <
+  img src = "./img/top1.png"
+alt = "" / >
+  <
+  /div> <
+  div class = "top2" >
+  <
+  img src = "./img/top2.png"
+alt = "" / >
+  <
+  /div> <
+  div class = "top3" >
+  <
+  img src = "./img/top3.png"
+alt = "" / >
+  <
+  /div>
+
+  <
+  div style = "width: 100%; color: white" >
+  <
+  div
+style = "
+font - size: 1 rem;
+font - weight: 700;
+line - height: 1.5;
+text - align: center;
+" >
+<
+a
+style = "color: #f3eccd"
+href = "http://vip3p.com/AboutUs"
+target = "_blank" >
+  About Us < /a >
+  &
+  nbsp; & nbsp; & nbsp; & nbsp; <
+a style = "color: #f3eccd"
+href = "http://vip3p.com/Terms"
+target = "_blank" >
+  Terms < /a >
+  <
+  !-- & nbsp; & nbsp; & nbsp; & nbsp;
+-->
+<
+!-- < a style = "color: #f3eccd;"
+href = "http://yes10.cc/BonusRules"
+target = "_blank" > Bonus Rules < /a>--> &
+  nbsp; & nbsp; & nbsp; & nbsp; <
+a
+style = "color: #f3eccd"
+href = "http://vip3p.com/PrivacyCookies"
+target = "_blank" >
+  Privacy & Cookies < /a >
+  <
+  !-- & nbsp; & nbsp; & nbsp; & nbsp;
+-->
+<
+!-- < a style = "color: #f3eccd;"
+href = "http://yes10.cc/ResponsibleGaming"
+target = "_blank" > Responsible Gaming < /a>--> <
+  !-- & nbsp; & nbsp; & nbsp; & nbsp;
+-->
+<
+!-- < a style = "color: #f3eccd;"
+href = "http://yes10.cc/BallyRewards"
+target = "_blank" > Bally Rewards < /a>--> <
+  /div>
+
+  <
+  !-- < div style = "font-size:0.1rem;text-align:center;" > -->
+  <
+  !--TeenpattiYes 'S® is a registered service mark of Twin River Management Group, Inc,--> <
+  !--a TeenpattiYes 's Corporation company. The corporate name of Gamesys US LLC and--> <
+  !--logos and the brand names of our products and services are protected trade-->
+  <
+  !--names and / or registered trademarks.-->
+  <
+  !-- < br > < br > -->
+  <
+  !--Copyright© TeenpattiYes 's Corporation and/or its affiliates and licensors 2022. All--> <
+  !--rights reserved.-->
+  <
+  !-- < br > < br > -->
+  <
+  !--Gamesys US LLC operates this website in conjunction with Premier-->
+  <
+  !--Entertainment AC, LLC dba TeenpattiYes 's Atlantic City Casino Resort pursuant to an--> <
+  !--Internet Gaming Permit issued by the State of New Jersey Division of Gaming-->
+  <
+  !--Enforcement in accordance with the Casino Control Act.-->
+  <
+  !--You must be 21 years or older and located in the state of New Jersey to-->
+  <
+  !--play.-->
+  <
+  !-- < br > < br > -->
+  <
+  !--Bet with your head, not over it.If you or someone you know has a-->
+  <
+  !--gambling problem and wants help, call 1 - 800 - GAMBLER.-->
+  <
+  !--This site uses cookies.By continuing to browse the site you are agreeing to-->
+  <
+  !--our use of cookies.Find out more here.-->
+  <
+  !-- < /div>-->
+
+  <
+  br / >
+  <
+  div
+style = "
+font - size: 0.7 rem;
+font - weight: 700;
+line - height: 1.5;
+text - align: center;
+" >
+<
+span > Contact Us: < /span> <
+  br / >
+  <
+  span > Email: < /span> <
+  a style = "color: white"
+href = "/cdn-cgi/l/email-protection#ebb89d829bd89b8a9f9f82ab8c868a8287c5888486"
+target = "_blank" > < span class = "__cf_email__"
+data - cfemail = "7427021d0447041500001d341319151d185a171b19" > [email & #160;protected]</span></a
+
+          >
+
+          <br />
+
+          <span>Telegram: </span>
+
+          <a style= "color: white"
+    href = "https://t.me/+2mV9SjZh6hI1N2M1"
+    target = "_blank" >
+    https: //t.me/svip3patti</a
+    >
+    <
+    br / >
+    <
+    span > SVIP3Patti is owned by SVV DIGISOLUTIONS PVT LTD < /span> <
+    /div> <
+    /div>
+
+    <
+    div class = "pagcor" >
+    <
+    img src = "./img/Pagcor.png"
+    alt = "" / >
+    <
+    /div>
+
+    <
+    div class = "footbtn" >
+    <
+    a onclick = "DownSoft()"
+    target = "_blank" >
+    < img src = "./img/buttom.png"
+    alt = "" /
+    > < /a> <
+    /div> <
+    div class = "kf" >
+    <
+    a id = "kf"
+    href = "" >
+    <
+    img src = "img/kf.png"
+    alt = "" / >
+    <
+    /a> <
+    /div> <
+    div class = "mail" >
+    <
+    a id = "mail"
+    href = "/cdn-cgi/l/email-protection#e0b3968990d39081949489a0878d81898cce838f8d" >
+    <
+    img src = "img/Mail.png"
+    alt = "" / >
+    <
+    /a> <
+    /div>       <
+    div class = "fb" >
+    <
+    a id = "fb"
+    href = "https://www.facebook.com/svip3patti/" >
+    <
+    img src = "img/FB.png"
+    alt = "" / >
+    <
+    /a> <
+    /div> <
+    div class = "ig" >
+    <
+    a id = "ig"
+    href = "https://www.instagram.com/svip3official/" >
+    <
+    img src = "img/IG.png"
+    alt = "" / >
+    <
+    /a> <
+    /div> <
+    div class = "tg" >
+    <
+    a id = "tg"
+    href = "https://t.me/svip3patti" >
+    <
+    img src = "img/TG.png"
+    alt = "" / >
+    <
+    /a> <
+    /div>
+
+    <
+    script data - cfasync = "false"
+    src = "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js" > < /script><script>
+    document.getElementById("kf").href = kfUrl[0];
+
+    function forUrl(num, arr) {
+      if (num === arr.length - 1) {
+        return forUrl(-1, arr);
+      } else {
+        num++;
+        setTimeout(function () {
+          document.getElementById("kf").href = kfUrl[num];
+          forUrl(num, arr);
+        }, time);
+      }
+    }
+    setTimeout(function () {
+      DownSoft();
+    }, downTime);
+    forUrl(-1, kfUrl); <
+    /script> <
+    /body> <
+    /html>
